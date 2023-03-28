@@ -1,5 +1,5 @@
 # Hey!
-# Ruann Fagundes - Fullstack Developer -  NODE & REACT
+# Ruann Fagundes - Front-End Developer - REACT
 
 
 <div align="center">
