@@ -22,5 +22,6 @@
   <h1 align="center">Contact</h1>
     <a href = "mailto: ruanndev@gmail.com"> 
       <p> ruanndev@gmail.com </p>
-     
+     <a href = "mailto: ruannreactdev@gmail.com">
+       <p>ruannreactdev@gmail.com</p>
 </div>
