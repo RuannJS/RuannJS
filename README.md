@@ -2,11 +2,6 @@
 # Ruann Fagundes - Front-End Developer - REACT
 
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RuannJS">
-</div>
-<br>
-
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
