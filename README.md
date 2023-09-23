@@ -16,6 +16,7 @@ Here are some of the technologies and skills I've been working with:
 - **Version Control:** Git, GitHub
 - **Tools:** Visual Studio Code, Postman
 
+
 ## 📚 Learning & Goals
 
 I'm committed to lifelong learning and staying up-to-date with the latest technologies and industry trends. My current goals include:
@@ -23,6 +24,13 @@ I'm committed to lifelong learning and staying up-to-date with the latest techno
 - Graduating with my bachelor's degree in Analysis and Systems Development.
 - Gaining practical experience through a trainee or junior developer position.
 - Contributing to open-source projects and collaborating with the developer community.
+
+## 🌱 Projects
+
+I've been actively working on personal projects to apply and deepen my knowledge. Some of my recent projects include:
+
+- [Project 1](https://github.com/RuannJS/codeleap-code-test): Frontend code test for CodeLeap
+- [Project 2](https://github.com/RuannJS/Lavor): Lavor is a full-stack real estate marketplace web application that simplifies property buying and selling.
 
 ## 📫 Contact
 
