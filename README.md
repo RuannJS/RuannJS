@@ -1,22 +1,33 @@
-# Hey!
-# Ruann Fagundes - Front-End Developer - REACT
+# Hello, I'm Ruann Fagundes 👋
 
+🎓 I'm a passionate and self-taught developer currently pursuing my bachelor's degree in Analysis and Systems Development with an expected graduation date of mid-2024.
 
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Technologies</h1>
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   </div>
-    
-  
-  <h1 align="center">Contact</h1>
-    <a href = "mailto: ruanndev@gmail.com"> 
-      <p> ruanndev@gmail.com </p>
-     <a href = "mailto: ruannreactdev@gmail.com">
-       <p>ruannreactdev@gmail.com</p>
-</div>
+💼 I'm eagerly looking for opportunities in the tech industry as a trainee or junior developer to kickstart my career. While I may not have formal work experience, I've dedicated nearly three years to self-study and practical projects, building a strong foundation in web development.
+
+🚀 I believe in continuous learning and problem-solving. I recently left my previous job to focus entirely on honing my technical skills and preparing for the next step in my career.
+
+## 🔧 Technologies & Skills
+
+Here are some of the technologies and skills I've been working with:
+
+- **Front-end:** HTML, CSS, JavaScript, React.js, Next.js
+- **Back-end:** Node.js, Express.js, NestJS
+- **Database:** MongoDB, Prisma
+- **Version Control:** Git, GitHub
+- **Tools:** Visual Studio Code, Postman
+
+## 📚 Learning & Goals
+
+I'm committed to lifelong learning and staying up-to-date with the latest technologies and industry trends. My current goals include:
+
+- Graduating with my bachelor's degree in Analysis and Systems Development.
+- Gaining practical experience through a trainee or junior developer position.
+- Contributing to open-source projects and collaborating with the developer community.
+
+## 📫 Contact
+
+I'm always open to connecting with fellow developers, tech enthusiasts, and potential employers. You can reach me through ruanndev@gmail.com.
+
+Let's connect and discuss exciting opportunities!
+
+Thanks for visiting my GitHub profile! 🚀
