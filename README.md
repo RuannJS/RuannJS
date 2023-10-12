@@ -10,7 +10,7 @@
 
 Here are some of the technologies and skills I've been working with:
 
-- **Front-end:** HTML, CSS, JavaScript, React.js, Next.js(with TypeScript)
+- **Front-end:** HTML, CSS, JavaScript, React.js, Angular
 - **Back-end:** Node.js, Express.js, NestJS(with TypeScript)
 - **Database:** MongoDB, Prisma
 - **Version Control:** Git, GitHub
@@ -30,7 +30,7 @@ I'm committed to lifelong learning and staying up-to-date with the latest techno
 I've been actively working on personal projects to apply and deepen my knowledge. Some of my recent projects include:
 
 - [CodeLeap Code Test](https://github.com/RuannJS/codeleap-code-test): Frontend code test for CodeLeap
-- [Lavor - Real Estate Marketplace](https://github.com/RuannJS/Lavor): Lavor is a full-stack real estate marketplace web application that simplifies property buying and selling.
+- [Riderize Code Test](https://github.com/RuannJS/riderize-backend-test): Backend code test for Riderize
 
 ## 📫 Contact
 
