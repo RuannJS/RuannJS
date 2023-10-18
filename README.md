@@ -37,6 +37,7 @@ I've been actively working on personal projects to apply and deepen my knowledge
 #### 🖥️ Backend
 
 - [Riderize Code Test - API ](https://github.com/RuannJS/riderize-backend-test)
+- [Pagar.me Code Test - API](https://github.com/RuannJS/pagarme-psp-test)
 
 ## 📫 Contact
 
