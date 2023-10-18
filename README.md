@@ -31,6 +31,7 @@ I've been actively working on personal projects to apply and deepen my knowledge
 
 - [CodeLeap Code Test](https://github.com/RuannJS/codeleap-code-test): Frontend code test for CodeLeap
 - [Riderize Code Test](https://github.com/RuannJS/riderize-backend-test): Backend code test for Riderize
+- [Geektrust Code Test](https://github.com/RuannJS/geektrust-adminui): Frontend code test for Geektrust
 
 ## 📫 Contact
 
