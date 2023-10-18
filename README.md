@@ -29,9 +29,14 @@ I'm committed to lifelong learning and staying up-to-date with the latest techno
 
 I've been actively working on personal projects to apply and deepen my knowledge. Some of my recent projects include:
 
-- [CodeLeap Code Test](https://github.com/RuannJS/codeleap-code-test): Frontend code test for CodeLeap
-- [Riderize Code Test](https://github.com/RuannJS/riderize-backend-test): Backend code test for Riderize
-- [Geektrust Code Test](https://github.com/RuannJS/geektrust-adminui): Frontend code test for Geektrust
+#### 🌐 Frontend
+
+- [CodeLeap Code Test](https://github.com/RuannJS/codeleap-code-test)
+- [Geektrust Code Test - ADMIN UI](https://github.com/RuannJS/geektrust-adminui)
+
+#### 🖥️ Backend
+
+- [Riderize Code Test - API ](https://github.com/RuannJS/riderize-backend-test)
 
 ## 📫 Contact
 
@@ -40,3 +45,5 @@ I'm always open to connecting with fellow developers, tech enthusiasts, and pote
 Let's connect and discuss exciting opportunities!
 
 Thanks for visiting my GitHub profile! 🚀
+
+
