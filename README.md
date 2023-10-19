@@ -39,6 +39,13 @@ I've been actively working on personal projects to apply and deepen my knowledge
 - [Riderize Code Test - API ](https://github.com/RuannJS/riderize-backend-test)
 - [Pagar.me Code Test - API](https://github.com/RuannJS/pagarme-psp-test)
 
+
+## 📚 Certificates
+
+
+- **HackerRank Angular - Basic and Intermediate** - 
+[Certificate Link](https://github.com/RuannJS/RuannJS/files/13048061/angular_intermediate.certificate.pdf)
+
 ## 📫 Contact
 
 I'm always open to connecting with fellow developers, tech enthusiasts, and potential employers. You can reach me through ruanndev@gmail.com.
