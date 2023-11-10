@@ -12,6 +12,7 @@ Here are some of the technologies and skills I've been working with:
 
 - **Front-end:** HTML, CSS, JavaScript, React.js, Angular, Axios
 - **Back-end:** Node.js, Express.js, NestJS(with TypeScript), Prisma, GraphQL, REST, JWT
+- **Testing:** Jest
 - **Database:** MongoDB, NoSQL
 - **Version Control:** Git, GitHub
 - **Tools & Others:** Visual Studio Code, Postman, Agile/Scrum
