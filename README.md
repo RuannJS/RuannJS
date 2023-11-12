@@ -42,21 +42,6 @@ I've been actively working on personal projects to apply and deepen my knowledge
 - [Kinvo App Code Test - GraphQL API](https://github.com/RuannJS/kinvo-backend-test)
 
 
-## 🛠️ Work
-
-### 📰 Portfolio for MANEIRANDO
-
-Maneirando is the biggest slapstick comedy youtube channel in the world, with 7.6 million subscribers.
-
-- https://www.youtube.com/@Maneirando
-
-It's owners are also the ambassadors of the biggest geek event in Brasília, the GeekVerse.
-
-- [Maneirando Portfolio](https://maneirando-media.vercel.app/)
-
-
-
-
 ## 📚 Certificates
 
 
