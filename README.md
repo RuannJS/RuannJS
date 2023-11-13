@@ -37,9 +37,10 @@ I've been actively working on personal projects to apply and deepen my knowledge
 
 #### 🖥️ Backend
 
-- [Riderize Code Test - API ](https://github.com/RuannJS/riderize-backend-test)
-- [Pagar.me Code Test - API](https://github.com/RuannJS/pagarme-psp-test)
+- [Riderize Code Test - RESTful API ](https://github.com/RuannJS/riderize-backend-test)
+- [Pagar.me Code Test - RESTful API](https://github.com/RuannJS/pagarme-psp-test)
 - [Kinvo App Code Test - GraphQL API](https://github.com/RuannJS/kinvo-backend-test)
+- [Doof App Project - RESTful API](https://github.com/RuannJS/doof-app)
 
 
 ## 📚 Certificates
