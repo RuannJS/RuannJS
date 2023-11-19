@@ -1,6 +1,6 @@
 # Hello, I'm Ruann Fagundes 👋
 
-🎓 I'm a passionate and self-taught developer currently pursuing my bachelor's degree in Analysis and Systems Development with an expected graduation date of mid-2024.
+🎓 I'm a passionate and self-taught developer currently pursuing my bachelor's degree in Analysis and Systems Development with an expected graduation date of early-2025.
 
 💼 I'm eagerly looking for opportunities in the tech industry as a trainee or junior developer to kickstart my career. While I may not have formal work experience, I've dedicated nearly three years to self-study and practical projects, building a strong foundation in web development.
 
@@ -10,12 +10,12 @@
 
 Here are some of the technologies and skills I've been working with:
 
-- **Front-end:** HTML, CSS, JavaScript, React.js, Angular, Axios
+- **Front-end:** HTML, CSS, JavaScript, React.js, Angular
 - **Back-end:** Node.js, Express.js, NestJS(with TypeScript), Prisma, GraphQL, REST, JWT
 - **Testing:** Jest
 - **Database:** MongoDB, NoSQL
 - **Version Control:** Git, GitHub
-- **Tools & Others:** Visual Studio Code, Postman, Agile/Scrum
+- **Tools & Others:** Visual Studio Code, Postman
 
 
 ## 📚 Learning & Goals
