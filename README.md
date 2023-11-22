@@ -32,9 +32,9 @@ I've been actively working on personal projects to apply and deepen my knowledge
 
 #### 🌐 Frontend
 
-- [CodeLeap Code Test](https://github.com/RuannJS/codeleap-code-test)
-- [Geektrust Code Test - ADMIN UI](https://github.com/RuannJS/geektrust-adminui)
-
+- [CodeLeap Code Test - REACT](https://github.com/RuannJS/codeleap-code-test)
+- [Geektrust Code Test - ADMIN UI - ANGULAR](https://github.com/RuannJS/geektrust-adminui)
+- [Multi Step Form - ANGULAR](https://github.com/RuannJS/multistep-form)
 #### 🖥️ Backend
 
 - [Riderize Code Test - RESTful API ](https://github.com/RuannJS/riderize-backend-test)
