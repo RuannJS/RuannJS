@@ -32,15 +32,16 @@ I've been actively working on personal projects to apply and deepen my knowledge
 
 #### 🌐 Frontend
 
-- [CodeLeap Code Test - REACT](https://github.com/RuannJS/codeleap-code-test)
-- [Geektrust Code Test - ADMIN UI - ANGULAR](https://github.com/RuannJS/geektrust-adminui)
-- [Multi Step Form - ANGULAR](https://github.com/RuannJS/multistep-form)
+- [RuannJS Portfolio - React](https://github.com/RuannJS/ruannjs-portfolio)
+- [CodeLeap Code Test - React](https://github.com/RuannJS/codeleap-code-test)
+- [Geektrust Code Test - Admin UI - Angular](https://github.com/RuannJS/geektrust-adminui)
+- [Multi Step Form - Angular](https://github.com/RuannJS/multistep-form)
 #### 🖥️ Backend
 
-- [Riderize Code Test - RESTful API ](https://github.com/RuannJS/riderize-backend-test)
-- [Pagar.me Code Test - RESTful API](https://github.com/RuannJS/pagarme-psp-test)
+- [Riderize Code Test - Rest API ](https://github.com/RuannJS/riderize-backend-test)
+- [Pagar.me Code Test - Rest API](https://github.com/RuannJS/pagarme-psp-test)
 - [Kinvo App Code Test - GraphQL API](https://github.com/RuannJS/kinvo-backend-test)
-- [Doof App Project - RESTful API](https://github.com/RuannJS/doof-app)
+- [Doof App Project - Rest API](https://github.com/RuannJS/doof-app)
 
 
 ## 📚 Certificates
