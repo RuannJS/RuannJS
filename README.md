@@ -4,12 +4,23 @@
 
 Here are some of the technologies and skills I've been working with:
 
-- **Front-end:** JavaScript, React.js, Angular, RxJS
-- **Back-end:** Node.js, Express.js, NestJS(with TypeScript)
-- **Testing:** Jest
-- **Database:** MongoDB, NoSQL
-- **Version Control:** Git, GitHub
-- **Tools & Others:** Visual Studio Code, Postman
+### Frontend
+
+[![My Skills](https://skillicons.dev/icons?i=angular,reactivex,tailwind,react,typescript)](https://skillicons.dev)
+
+### Backend
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,prisma,mongodb,typescript)](https://skillicons.dev)
+
+### Testing
+
+[![My Skills](https://skillicons.dev/icons?i=jest)](https://skillicons.dev)
+
+### Tools
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,vite,vscode,vercel)](https://skillicons.dev)
+
+
 
 ## 🌱 Projects
 
@@ -17,11 +28,13 @@ I've been actively working on personal projects to apply and deepen my knowledge
 
 #### 🌐 Frontend
 
+
+- [Geektrust Code Test - Admin UI - Angular](https://github.com/RuannJS/geektrust-adminui)
+- [Multi Step Form - Angular](https://github.com/RuannJS/multistep-form) 
+- [Country Explorer - Angular](https://github.com/RuannJS/country-api)
 - [RuannJS Portfolio - React](https://github.com/RuannJS/ruannjs-portfolio)
 - [CodeLeap Code Test - React](https://github.com/RuannJS/codeleap-code-test)
-- [Geektrust Code Test - Admin UI - Angular](https://github.com/RuannJS/geektrust-adminui)
-- [Multi Step Form - Angular](https://github.com/RuannJS/multistep-form)
-- [Country Explorer - Angular](https://github.com/RuannJS/country-api)
+
 #### 🖥️ Backend
 
 - [Riderize Code Test - Rest API ](https://github.com/RuannJS/riderize-backend-test)
