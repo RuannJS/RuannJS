@@ -46,11 +46,12 @@ I've been actively working on personal projects to apply and deepen my knowledge
 - [Doof App Project - Rest API](https://github.com/RuannJS/doof-app)
 
 
-## 📚 Certificates
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruannjs&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- **HackerRank Angular - Basic and Intermediate** - 
-[Certificate Link](https://github.com/RuannJS/RuannJS/files/13048061/angular_intermediate.certificate.pdf)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruannjs&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 📫 Contact
 
