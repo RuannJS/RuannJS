@@ -33,7 +33,6 @@ I've been actively working on personal projects to apply and deepen my knowledge
 - [Geektrust Code Test - Admin UI - Angular](https://github.com/RuannJS/geektrust-adminui)
 - [Multi Step Form - Angular](https://github.com/RuannJS/multistep-form) 
 - [Country Explorer - Angular](https://github.com/RuannJS/country-api)
-- [RuannJS Portfolio - React](https://github.com/RuannJS/ruannjs-portfolio)
 - [CodeLeap Code Test - React](https://github.com/RuannJS/codeleap-code-test)
   
 
