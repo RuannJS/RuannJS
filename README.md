@@ -26,8 +26,14 @@ Here are some of the technologies and skills I've been working with:
 
 I've been actively working on personal projects to apply and deepen my knowledge. Some of my recent projects include:
 
-#### 🌐 Frontend
 
+#### 👨‍💻 Fullstack
+
+- [#VanLife Project](https://github.com/RuannJS/vanlife-project)
+
+
+
+#### 🌐 Frontend
 
 - [Rock-Paper-Scissors-Lizard-Spock - Angular](https://github.com/RuannJS/rockpaper-game)
 - [Geektrust Code Test - Admin UI - Angular](https://github.com/RuannJS/geektrust-adminui)
@@ -35,7 +41,6 @@ I've been actively working on personal projects to apply and deepen my knowledge
 - [Country Explorer - Angular](https://github.com/RuannJS/country-api)
 - [CodeLeap Code Test - React](https://github.com/RuannJS/codeleap-code-test)
   
-
 #### 🖥️ Backend
 
 - [Pokemon GO - Rest API](https://github.com/RuannJS/pokemon-api)
